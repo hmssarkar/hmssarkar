@@ -1,0 +1,71 @@
+.card-headr{
+    display: flex;
+    justify-content: space-between;
+    margin: 25px 0 25px 0;
+}
+.header-para > p{
+    color: #0046d4;
+    font-family: "rubik";
+    font-size: 0.7rem;
+}
+.header-para > h4{
+    font-size: 1.5rem;
+    font-family: "rubik";
+}
+.cards{
+    width: 16rem;
+    height: 18rem;
+    box-shadow: 1px 1px 1px 0px rgba(211, 208, 208, 0.75);
+    
+}
+.card-part1{
+    height:50% ;
+}
+.card-part1 > img{
+    width: 100%;
+    height: 100%;
+}
+.cards-tag{
+    display: flex;
+    gap: 5px;
+    color: #0046d4;
+}
+.card-2nd-part{
+    margin: 20px 0 0 20px;
+}
+
+.card-2nd-part > p{
+    margin:0.5rem 0 0.5rem 0;
+}
+
+.line-hztl>hr{
+    width: 90%;
+ }
+.cards-font-text{
+    display: flex;
+    gap: 0.5rem;
+}
+.cards-font-text> hr{
+    width: 50px;
+}
+
+.card-child{
+    display: grid;
+    grid-template-columns: repeat(2 ,50%);
+}
+
+
+.card-box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    justify-content: space-between;
+    row-gap: 1.5rem;
+    padding: 0 0 5rem 0;
+}
+
+.card-shadow{
+        box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.75);
+-webkit-box-shadow: 2px 3px 6px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 3px 6px 0px rgba(0,0,0,0.75);
+    
+}

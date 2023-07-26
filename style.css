@@ -1,0 +1,18 @@
+@import url("css/reset.css");
+@import url("css/nav.css");
+@import url("css/media.css");
+@import url("css/slider.css");
+@import url("css/search-bar.css");
+@import url("css/card.css");
+@import url("css/coomon.css");
+@import url("css/banner.css");
+@import url("css/satisfied-section.css");
+@import url("css/our-team.css");
+
+
+
+/* navigation started */
+.container{
+    width: 73rem;
+    margin: auto;
+}
